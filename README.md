@@ -8,6 +8,8 @@
 - 👨‍💻 All of my personal projects are available here !
 - 📫 Reach me through LinkedIn
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ivelter&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
