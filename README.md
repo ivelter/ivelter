@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/CQ3mtp9flT0AAAAM/wacky-cat.gif"  />
-
 ###
 
 <div align="left">
