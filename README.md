@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Ilan, a 2nd year IT student in 🇫🇷</h2>
+<h2 align="left">Hi 👋, I'm a 2nd year IT student in 🇫🇷</h2>
 
 ###
 
